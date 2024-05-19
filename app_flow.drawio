@@ -1,0 +1,107 @@
+<mxfile host="65bd71144e">
+    <diagram id="3_RVUS4ePOihhVZtkLAe" name="Page-1">
+        <mxGraphModel dx="754" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <object label="Student" id="2">
+                    <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;html=1;spacingBottom=0;" parent="1" vertex="1">
+                        <mxGeometry x="410" y="10" width="30" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="3" value="Teacher&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+                    <mxGeometry x="410" y="850" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="7. This spare time for both teachers and students, because both of their times is valuable. This solution even reduce stress for teachers and students because of the strict time interval that can me chosen.&lt;br&gt;&lt;br&gt;The teacher and the students decide whenever they want to get the notifications and can handle a 2 days old question or solution at a certain time." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#000000;strokeColor=#2D7600;" parent="1" vertex="1">
+                    <mxGeometry x="960" y="370" width="225" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="&lt;font color=&quot;#000000&quot;&gt;3. The notification to the teacher will disapear if the student mark the checkbbox as done&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
+                    <mxGeometry x="590" y="730" width="140" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=22;fontColor=#FFFFFF;" parent="1" source="10" target="9" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="&lt;font color=&quot;#000000&quot;&gt;3. Students have checkboxes that can be marked as done if the students solve the question with AI.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
+                    <mxGeometry x="450" y="110" width="130" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="1. Teacher get a notification, if the notification is on a the time the student sends the question" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontStyle=0;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="90" y="730" width="170" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="&lt;font color=&quot;#000000&quot;&gt;2. Student gets an automatic answer from an AI-bot&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="110" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=22;fontColor=#FFFFFF;" parent="1" source="14" target="27" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="&lt;font color=&quot;#000000&quot;&gt;1. Student asks a question&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="110" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="&lt;font color=&quot;#000000&quot;&gt;4. Students can set up a strict time for notifications, for example monday - wednesday 16.00-18.00&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
+                    <mxGeometry x="660" y="110" width="140" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="2. Teachers can set up a strict time for notifications, for example wednesday 16.00-18.00." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontStyle=0;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="340" y="722.5" width="175" height="105" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=22;fontColor=#FFFFFF;" parent="1" source="27" target="33" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=22;fontColor=#FFFFFF;" parent="1" source="27" target="13" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=22;fontColor=#FFFFFF;" parent="1" source="27" target="45" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=22;fontColor=#FFFFFF;" parent="1" source="27" target="46" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=22;fontColor=#FFFFFF;" parent="1" source="27" target="37" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="&lt;font color=&quot;#ffffff&quot;&gt;App&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=22;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="370" width="130" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" style="edgeStyle=elbowEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;fontColor=#FFFFFF;" parent="1" source="33" target="12" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=22;fontColor=#FFFFFF;" parent="1" source="33" target="53" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="Notification on" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="115" y="560" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="" style="edgeStyle=elbowEdgeStyle;html=1;entryX=-0.007;entryY=0.666;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=22;fontColor=#FFFFFF;endArrow=none;" parent="1" target="37" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="50" y="457" as="sourcePoint"/>
+                        <mxPoint x="359.0899999999999" y="456.5799999999999" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="52" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fontSize=22;fontColor=#FFFFFF;" parent="1" source="37" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="360" y="440" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="37" value="Notification off" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="10" y="430" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=22;fontColor=#FFFFFF;" parent="1" source="45" target="17" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=22;fontColor=#FFFFFF;" parent="1" source="45" target="53" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="Notification on" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="660" y="280" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;fontSize=22;fontColor=#FFFFFF;" parent="1" source="46" target="27" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="Notification off" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="700" y="420" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="Livechat opens?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="810" y="560" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
